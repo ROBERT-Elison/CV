@@ -1,0 +1,25 @@
+.contour{
+    border: 5px solid black;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    background-color: #FFE5CC;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30%;
+    margin-top: 70px;
+    flex-direction: column;
+}
+ul{
+    flex-direction: column;
+}
+h1{
+   color: saddlebrown;
+   font-size: 5em;
+}
+img{
+    align-items: flex-start;
+}
+h2{
+    color: saddlebrown;
+}
